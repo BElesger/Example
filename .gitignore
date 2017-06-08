@@ -1,1 +1,3 @@
 DB.txt
+File/*
+!File/1.txt
